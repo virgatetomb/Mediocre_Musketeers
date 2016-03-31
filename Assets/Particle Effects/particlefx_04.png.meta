@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: bda8d19b1f6d3e145bef29b2d04f97ba
+timeCreated: 1459379829
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: particlefx_04_0
+    21300002: particlefx_04_1
+    21300004: particlefx_04_2
+    21300006: particlefx_04_3
+    21300008: particlefx_04_4
+    21300010: particlefx_04_5
+    21300012: particlefx_04_6
+    21300014: particlefx_04_7
+    21300016: particlefx_04_8
+    21300018: particlefx_04_9
+    21300020: particlefx_04_10
+    21300022: particlefx_04_11
+    21300024: particlefx_04_12
+    21300026: particlefx_04_13
+    21300028: particlefx_04_14
+    21300030: particlefx_04_15
+    21300032: particlefx_04_16
+    21300034: particlefx_04_17
+    21300036: particlefx_04_18
+    21300038: particlefx_04_19
+    21300040: particlefx_04_20
+    21300042: particlefx_04_21
+    21300044: particlefx_04_22
+    21300046: particlefx_04_23
+    21300048: particlefx_04_24
+    21300050: particlefx_04_25
+    21300052: particlefx_04_26
+    21300054: particlefx_04_27
+    21300056: particlefx_04_28
+    21300058: particlefx_04_29
+    21300060: particlefx_04_30
+    21300062: particlefx_04_31
+    21300064: particlefx_04_32
+    21300066: particlefx_04_33
+    21300068: particlefx_04_34
+    21300070: particlefx_04_35
+    21300072: particlefx_04_36
+    21300074: particlefx_04_37
+    21300076: particlefx_04_38
+    21300078: particlefx_04_39
+    21300080: particlefx_04_40
+    21300082: particlefx_04_41
+    21300084: particlefx_04_42
+    21300086: particlefx_04_43
+    21300088: particlefx_04_44
+    21300090: particlefx_04_45
+    21300092: particlefx_04_46
+    21300094: particlefx_04_47
+    21300096: particlefx_04_48
+    21300098: particlefx_04_49
+    21300100: particlefx_04_50
+    21300102: particlefx_04_51
+    21300104: particlefx_04_52
+    21300106: particlefx_04_53
+    21300108: particlefx_04_54
+    21300110: particlefx_04_55
+    21300112: particlefx_04_56
+    21300114: particlefx_04_57
+    21300116: particlefx_04_58
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: particlefx_04_0
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 4}
+        - {x: 5, y: 8}
+        - {x: 3, y: 10}
+        - {x: -5, y: 10}
+        - {x: -11, y: 3}
+        - {x: -11, y: -6}
+        - {x: -5, y: -9}
+        - {x: 9, y: -9}
+        - {x: 11, y: -6}
+        - {x: 11, y: 1}
+    - name: particlefx_04_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: -14, y: 12}
+        - {x: -15, y: 5}
+        - {x: -15, y: -8}
+        - {x: -4, y: -14}
+        - {x: 3, y: -14}
+        - {x: 9, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 7}
+        - {x: 11, y: 10}
+    - name: particlefx_04_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -22, y: 9}
+        - {x: -22, y: -4}
+        - {x: -13, y: -19}
+        - {x: 7, y: -19}
+        - {x: 19, y: -5}
+        - {x: 19, y: 7}
+        - {x: 12, y: 17}
+    - name: particlefx_04_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -24, y: 8}
+        - {x: -24, y: -9}
+        - {x: -17, y: -19}
+        - {x: 9, y: -19}
+        - {x: 22, y: -11}
+        - {x: 22, y: 9}
+        - {x: 20, y: 21}
+    - name: particlefx_04_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -28, y: 19}
+        - {x: -28, y: -10}
+        - {x: -14, y: -22}
+        - {x: 2, y: -22}
+        - {x: 12, y: -21}
+        - {x: 28, y: -10}
+        - {x: 28, y: 12}
+        - {x: 19, y: 23}
+    - name: particlefx_04_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 26}
+        - {x: -31, y: 19}
+        - {x: -31, y: -22}
+        - {x: -18, y: -25}
+        - {x: 19, y: -25}
+        - {x: 30, y: -10}
+        - {x: 30, y: 15}
+        - {x: 16, y: 26}
+    - name: particlefx_04_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 30}
+        - {x: -29, y: 30}
+        - {x: -34, y: 27}
+        - {x: -34, y: -18}
+        - {x: -25, y: -30}
+        - {x: 7, y: -30}
+        - {x: 23, y: -24}
+        - {x: 36, y: -14}
+        - {x: 36, y: -1}
+    - name: particlefx_04_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 31}
+        - {x: -40, y: 28}
+        - {x: -40, y: -20}
+        - {x: -25, y: -36}
+        - {x: 12, y: -36}
+        - {x: 38, y: -17}
+        - {x: 38, y: 29}
+        - {x: 34, y: 31}
+    - name: particlefx_04_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 36}
+        - {x: -45, y: 26}
+        - {x: -46, y: 24}
+        - {x: -46, y: -29}
+        - {x: -29, y: -36}
+        - {x: 39, y: -36}
+        - {x: 43, y: -32}
+        - {x: 43, y: 30}
+        - {x: 23, y: 36}
+    - name: particlefx_04_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 38}
+        - {x: -46, y: 36}
+        - {x: -46, y: -37}
+        - {x: 39, y: -37}
+        - {x: 45, y: -23}
+        - {x: 45, y: 29}
+        - {x: 37, y: 38}
+    - name: particlefx_04_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 39}
+        - {x: -46, y: 32}
+        - {x: -46, y: -28}
+        - {x: -31, y: -42}
+        - {x: 43, y: -42}
+        - {x: 50, y: -39}
+        - {x: 50, y: 20}
+        - {x: 42, y: 39}
+    - name: particlefx_04_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 43}
+        - {x: -51, y: -29}
+        - {x: -35, y: -43}
+        - {x: 34, y: -43}
+        - {x: 39, y: -40}
+        - {x: 50, y: -14}
+        - {x: 50, y: 38}
+        - {x: 48, y: 43}
+    - name: particlefx_04_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 43}
+        - {x: -23, y: 43}
+        - {x: -53, y: 21}
+        - {x: -53, y: -25}
+        - {x: -49, y: -39}
+        - {x: -34, y: -42}
+        - {x: 26, y: -42}
+        - {x: 42, y: -35}
+        - {x: 52, y: -18}
+        - {x: 52, y: 23}
+    - name: particlefx_04_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 44}
+        - {x: -21, y: 44}
+        - {x: -54, y: 25}
+        - {x: -54, y: -48}
+        - {x: 45, y: -48}
+        - {x: 55, y: -29}
+        - {x: 55, y: 16}
+        - {x: 44, y: 34}
+    - name: particlefx_04_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 44}
+        - {x: -59, y: 26}
+        - {x: -59, y: -24}
+        - {x: -51, y: -46}
+        - {x: -40, y: -48}
+        - {x: 22, y: -48}
+        - {x: 56, y: -32}
+        - {x: 56, y: 30}
+        - {x: 28, y: 44}
+    - name: particlefx_04_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 44}
+        - {x: -48, y: 44}
+        - {x: -59, y: 26}
+        - {x: -59, y: -35}
+        - {x: -55, y: -40}
+        - {x: -32, y: -48}
+        - {x: 48, y: -48}
+        - {x: 57, y: -35}
+        - {x: 57, y: 30}
+        - {x: 53, y: 36}
+    - name: particlefx_04_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 44}
+        - {x: -59, y: 31}
+        - {x: -59, y: -43}
+        - {x: -35, y: -50}
+        - {x: 54, y: -50}
+        - {x: 59, y: -45}
+        - {x: 59, y: 25}
+        - {x: 42, y: 44}
+    - name: particlefx_04_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 45}
+        - {x: -59, y: 44}
+        - {x: -59, y: -38}
+        - {x: -48, y: -50}
+        - {x: 37, y: -50}
+        - {x: 58, y: -45}
+        - {x: 58, y: 17}
+        - {x: 44, y: 45}
+    - name: particlefx_04_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 45}
+        - {x: -59, y: 32}
+        - {x: -59, y: -34}
+        - {x: -36, y: -51}
+        - {x: 30, y: -51}
+        - {x: 58, y: -26}
+        - {x: 58, y: 18}
+        - {x: 33, y: 45}
+    - name: particlefx_04_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 45}
+        - {x: -61, y: 41}
+        - {x: -61, y: -36}
+        - {x: -40, y: -51}
+        - {x: 53, y: -51}
+        - {x: 60, y: -25}
+        - {x: 60, y: 33}
+        - {x: 34, y: 45}
+    - name: particlefx_04_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 45}
+        - {x: -57, y: 39}
+        - {x: -61, y: 27}
+        - {x: -61, y: -37}
+        - {x: -28, y: -52}
+        - {x: 25, y: -52}
+        - {x: 61, y: -30}
+        - {x: 61, y: 27}
+        - {x: 31, y: 45}
+    - name: particlefx_04_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 46}
+        - {x: -47, y: 46}
+        - {x: -61, y: 34}
+        - {x: -61, y: -42}
+        - {x: -39, y: -51}
+        - {x: 32, y: -51}
+        - {x: 53, y: -43}
+        - {x: 62, y: -16}
+        - {x: 62, y: 13}
+        - {x: 44, y: 45}
+    - name: particlefx_04_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 46}
+        - {x: -63, y: 42}
+        - {x: -63, y: -35}
+        - {x: -34, y: -52}
+        - {x: 32, y: -52}
+        - {x: 46, y: -43}
+        - {x: 62, y: -12}
+        - {x: 62, y: 25}
+        - {x: 44, y: 46}
+    - name: particlefx_04_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 47}
+        - {x: -31, y: 47}
+        - {x: -35, y: 45}
+        - {x: -53, y: 30}
+        - {x: -61, y: 13}
+        - {x: -62, y: 7}
+        - {x: -62, y: -44}
+        - {x: -38, y: -53}
+        - {x: 40, y: -53}
+        - {x: 44, y: -50}
+        - {x: 63, y: -29}
+        - {x: 63, y: 21}
+    - name: particlefx_04_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 47}
+        - {x: -53, y: 47}
+        - {x: -62, y: 37}
+        - {x: -62, y: -35}
+        - {x: -44, y: -54}
+        - {x: 55, y: -54}
+        - {x: 59, y: -52}
+        - {x: 63, y: -28}
+        - {x: 63, y: 26}
+        - {x: 29, y: 45}
+    - name: particlefx_04_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 47}
+        - {x: -35, y: 46}
+        - {x: -50, y: 34}
+        - {x: -62, y: 14}
+        - {x: -62, y: -14}
+        - {x: -56, y: -30}
+        - {x: -38, y: -54}
+        - {x: 48, y: -54}
+        - {x: 63, y: -32}
+        - {x: 63, y: 26}
+        - {x: 23, y: 47}
+    - name: particlefx_04_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 46}
+        - {x: -42, y: 46}
+        - {x: -59, y: 42}
+        - {x: -62, y: 38}
+        - {x: -62, y: -29}
+        - {x: -51, y: -54}
+        - {x: 45, y: -54}
+        - {x: 55, y: -52}
+        - {x: 63, y: -27}
+        - {x: 63, y: 7}
+        - {x: 47, y: 40}
+    - name: particlefx_04_27
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 11}
+        - {x: 49, y: 42}
+        - {x: 26, y: 46}
+        - {x: -42, y: 46}
+        - {x: -63, y: 30}
+        - {x: -63, y: -47}
+        - {x: -26, y: -54}
+        - {x: 30, y: -54}
+        - {x: 39, y: -49}
+        - {x: 59, y: -26}
+        - {x: 63, y: -15}
+    - name: particlefx_04_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 46}
+        - {x: -63, y: 34}
+        - {x: -63, y: -34}
+        - {x: -61, y: -37}
+        - {x: -40, y: -55}
+        - {x: 38, y: -55}
+        - {x: 63, y: -44}
+        - {x: 63, y: 30}
+        - {x: 51, y: 46}
+    - name: particlefx_04_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 46}
+        - {x: -43, y: 46}
+        - {x: -64, y: 24}
+        - {x: -64, y: -32}
+        - {x: -35, y: -55}
+        - {x: 43, y: -55}
+        - {x: 63, y: -18}
+        - {x: 63, y: 15}
+        - {x: 52, y: 43}
+    - name: particlefx_04_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 40}
+        - {x: 38, y: 47}
+        - {x: -58, y: 47}
+        - {x: -64, y: 30}
+        - {x: -64, y: -24}
+        - {x: -55, y: -49}
+        - {x: -10, y: -56}
+        - {x: 36, y: -56}
+        - {x: 44, y: -55}
+        - {x: 63, y: -21}
+        - {x: 63, y: 19}
+    - name: particlefx_04_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 47}
+        - {x: -55, y: 45}
+        - {x: -64, y: 22}
+        - {x: -64, y: -43}
+        - {x: -27, y: -56}
+        - {x: 57, y: -56}
+        - {x: 63, y: -35}
+        - {x: 63, y: 39}
+        - {x: 49, y: 47}
+    - name: particlefx_04_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 47}
+        - {x: -64, y: 20}
+        - {x: -64, y: -36}
+        - {x: -49, y: -56}
+        - {x: 41, y: -56}
+        - {x: 45, y: -55}
+        - {x: 63, y: -35}
+        - {x: 63, y: 24}
+        - {x: 41, y: 47}
+    - name: particlefx_04_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 47}
+        - {x: -64, y: -33}
+        - {x: -51, y: -56}
+        - {x: 38, y: -56}
+        - {x: 63, y: -36}
+        - {x: 63, y: 32}
+        - {x: 52, y: 47}
+    - name: particlefx_04_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 47}
+        - {x: -64, y: 24}
+        - {x: -64, y: -39}
+        - {x: -44, y: -56}
+        - {x: 44, y: -56}
+        - {x: 63, y: -35}
+        - {x: 63, y: 45}
+        - {x: 55, y: 47}
+    - name: particlefx_04_35
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 43}
+        - {x: 34, y: 49}
+        - {x: -64, y: 49}
+        - {x: -64, y: -34}
+        - {x: -30, y: -57}
+        - {x: 31, y: -57}
+        - {x: 43, y: -54}
+        - {x: 63, y: -35}
+        - {x: 63, y: 13}
+        - {x: 59, y: 32}
+    - name: particlefx_04_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 50}
+        - {x: -50, y: 37}
+        - {x: -62, y: 19}
+        - {x: -64, y: 12}
+        - {x: -64, y: -33}
+        - {x: -49, y: -58}
+        - {x: 34, y: -58}
+        - {x: 55, y: -55}
+        - {x: 64, y: -42}
+        - {x: 64, y: 19}
+        - {x: 47, y: 50}
+    - name: particlefx_04_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 50}
+        - {x: -64, y: 21}
+        - {x: -64, y: -34}
+        - {x: -25, y: -59}
+        - {x: 36, y: -59}
+        - {x: 64, y: -34}
+        - {x: 64, y: 40}
+        - {x: 45, y: 50}
+    - name: particlefx_04_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 50}
+        - {x: -64, y: 41}
+        - {x: -64, y: -33}
+        - {x: -50, y: -59}
+        - {x: 51, y: -59}
+        - {x: 64, y: -31}
+        - {x: 64, y: 44}
+        - {x: 36, y: 50}
+    - name: particlefx_04_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 42}
+        - {x: 26, y: 50}
+        - {x: -35, y: 50}
+        - {x: -61, y: 23}
+        - {x: -64, y: 12}
+        - {x: -64, y: -25}
+        - {x: -50, y: -47}
+        - {x: -26, y: -58}
+        - {x: 9, y: -58}
+        - {x: 21, y: -57}
+        - {x: 42, y: -49}
+        - {x: 64, y: -36}
+        - {x: 64, y: 22}
+    - name: particlefx_04_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 50}
+        - {x: -64, y: 44}
+        - {x: -64, y: -41}
+        - {x: -60, y: -58}
+        - {x: 39, y: -58}
+        - {x: 64, y: -33}
+        - {x: 64, y: 30}
+        - {x: 46, y: 50}
+    - name: particlefx_04_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 50}
+        - {x: -64, y: 49}
+        - {x: -64, y: -35}
+        - {x: -58, y: -56}
+        - {x: -37, y: -59}
+        - {x: 33, y: -59}
+        - {x: 64, y: -36}
+        - {x: 64, y: 26}
+        - {x: 57, y: 50}
+    - name: particlefx_04_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 50}
+        - {x: -29, y: 50}
+        - {x: -35, y: 49}
+        - {x: -64, y: 25}
+        - {x: -64, y: -60}
+        - {x: 64, y: -60}
+        - {x: 64, y: 27}
+        - {x: 52, y: 38}
+    - name: particlefx_04_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 50}
+        - {x: -64, y: 43}
+        - {x: -64, y: -45}
+        - {x: -63, y: -52}
+        - {x: -50, y: -60}
+        - {x: 34, y: -60}
+        - {x: 64, y: -42}
+        - {x: 64, y: 43}
+        - {x: 38, y: 50}
+    - name: particlefx_04_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 50}
+        - {x: -64, y: -60}
+        - {x: 64, y: -60}
+        - {x: 64, y: 48}
+        - {x: 63, y: 50}
+    - name: particlefx_04_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 49}
+        - {x: -64, y: 44}
+        - {x: -64, y: -44}
+        - {x: -42, y: -60}
+        - {x: 27, y: -60}
+        - {x: 64, y: -40}
+        - {x: 64, y: 31}
+        - {x: 43, y: 49}
+    - name: particlefx_04_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 49}
+        - {x: -64, y: 43}
+        - {x: -64, y: -45}
+        - {x: -29, y: -62}
+        - {x: 25, y: -62}
+        - {x: 64, y: -38}
+        - {x: 64, y: 42}
+        - {x: 44, y: 49}
+    - name: particlefx_04_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 49}
+        - {x: -64, y: 46}
+        - {x: -64, y: -30}
+        - {x: -60, y: -63}
+        - {x: 64, y: -63}
+        - {x: 64, y: 37}
+        - {x: 55, y: 49}
+    - name: particlefx_04_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 50}
+        - {x: -60, y: 42}
+        - {x: -64, y: 30}
+        - {x: -64, y: -39}
+        - {x: -22, y: -63}
+        - {x: 30, y: -63}
+        - {x: 50, y: -53}
+        - {x: 64, y: -31}
+        - {x: 64, y: 35}
+        - {x: 30, y: 50}
+    - name: particlefx_04_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 49}
+        - {x: -64, y: 30}
+        - {x: -64, y: -30}
+        - {x: -53, y: -61}
+        - {x: -49, y: -62}
+        - {x: 20, y: -62}
+        - {x: 64, y: -40}
+        - {x: 64, y: 27}
+        - {x: 43, y: 49}
+    - name: particlefx_04_50
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 49}
+        - {x: -64, y: 31}
+        - {x: -64, y: -30}
+        - {x: -53, y: -60}
+        - {x: -44, y: -62}
+        - {x: 33, y: -62}
+        - {x: 64, y: -34}
+        - {x: 64, y: 36}
+        - {x: 27, y: 49}
+      - - {x: 19, y: -2}
+        - {x: 22, y: -1}
+        - {x: 22, y: 2}
+        - {x: 19, y: 3}
+        - {x: 17, y: 1}
+    - name: particlefx_04_51
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 49}
+        - {x: -64, y: 49}
+        - {x: -64, y: -31}
+        - {x: -37, y: -51}
+        - {x: -7, y: -62}
+        - {x: 27, y: -62}
+        - {x: 61, y: -54}
+        - {x: 64, y: -38}
+        - {x: 64, y: 42}
+    - name: particlefx_04_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 49}
+        - {x: -62, y: 47}
+        - {x: -64, y: 39}
+        - {x: -64, y: -37}
+        - {x: -20, y: -61}
+        - {x: 56, y: -61}
+        - {x: 59, y: -60}
+        - {x: 64, y: -40}
+        - {x: 64, y: 40}
+        - {x: 44, y: 49}
+    - name: particlefx_04_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 49}
+        - {x: -58, y: 44}
+        - {x: -64, y: 21}
+        - {x: -64, y: -23}
+        - {x: -37, y: -61}
+        - {x: 16, y: -61}
+        - {x: 64, y: -54}
+        - {x: 64, y: 37}
+        - {x: 42, y: 49}
+    - name: particlefx_04_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 49}
+        - {x: -64, y: 25}
+        - {x: -64, y: -31}
+        - {x: -21, y: -58}
+        - {x: -16, y: -60}
+        - {x: 25, y: -60}
+        - {x: 64, y: -32}
+        - {x: 64, y: 45}
+        - {x: 44, y: 49}
+    - name: particlefx_04_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 49}
+        - {x: -40, y: 49}
+        - {x: -64, y: 38}
+        - {x: -64, y: -39}
+        - {x: -58, y: -58}
+        - {x: -50, y: -60}
+        - {x: 27, y: -60}
+        - {x: 64, y: -38}
+        - {x: 64, y: 29}
+        - {x: 29, y: 46}
+    - name: particlefx_04_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 50}
+        - {x: -64, y: -42}
+        - {x: -37, y: -59}
+        - {x: 29, y: -59}
+        - {x: 64, y: -56}
+        - {x: 64, y: 48}
+        - {x: 62, y: 50}
+    - name: particlefx_04_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 51}
+        - {x: -64, y: 28}
+        - {x: -64, y: -43}
+        - {x: -60, y: -58}
+        - {x: 64, y: -58}
+        - {x: 64, y: 40}
+        - {x: 34, y: 51}
+      - - {x: -50, y: 9}
+        - {x: -48, y: 6}
+        - {x: -44, y: 6}
+        - {x: -37, y: 10}
+    - name: particlefx_04_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -27}
+        - {x: 26, y: -41}
+        - {x: 36, y: -51}
+        - {x: 64, y: -31}
+        - {x: 64, y: 34}
+        - {x: 28, y: 51}
+        - {x: -55, y: 51}
+        - {x: -64, y: 30}
+        - {x: -64, y: -44}
+        - {x: -51, y: -47}
+        - {x: -21, y: -53}
+        - {x: 6, y: -53}
+        - {x: 25, y: -45}
+        - {x: 24, y: -37}
+        - {x: 18, y: -29}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
